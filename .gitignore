@@ -2,10 +2,8 @@ Debug
 Release
 x86
 x64
+v15
 *.ipch
-
-BoostLibraries/BoostLibraries\.sdf
-
+*.sdf
 *.opendb
-
-BoostLibraries/\.vs/BoostLibraries/v15/
+*.filters

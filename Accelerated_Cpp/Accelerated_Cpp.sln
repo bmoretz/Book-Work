@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Accelerated_Cpp", "Accelerated_Cpp\Accelerated_Cpp.vcxproj", "{B4541982-C3E5-4726-B0A5-E246E3C22261}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter9", "Chapter9\Chapter9.vcxproj", "{C37D66FF-44A4-4EE5-9463-84B4CDF4E371}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter10", "Chapter10\Chapter10.vcxproj", "{3ED4269B-578B-46CA-9158-93C1E12223D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4541982-C3E5-4726-B0A5-E246E3C22261}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{B4541982-C3E5-4726-B0A5-E246E3C22261}.Debug|x64.ActiveCfg = Debug|x64
+		{B4541982-C3E5-4726-B0A5-E246E3C22261}.Debug|x64.Build.0 = Debug|x64
+		{B4541982-C3E5-4726-B0A5-E246E3C22261}.Debug|x86.ActiveCfg = Debug|Win32
+		{B4541982-C3E5-4726-B0A5-E246E3C22261}.Debug|x86.Build.0 = Debug|Win32
+		{B4541982-C3E5-4726-B0A5-E246E3C22261}.Release|Any CPU.ActiveCfg = Release|Win32
+		{B4541982-C3E5-4726-B0A5-E246E3C22261}.Release|x64.ActiveCfg = Release|x64
+		{B4541982-C3E5-4726-B0A5-E246E3C22261}.Release|x64.Build.0 = Release|x64
+		{B4541982-C3E5-4726-B0A5-E246E3C22261}.Release|x86.ActiveCfg = Release|Win32
+		{B4541982-C3E5-4726-B0A5-E246E3C22261}.Release|x86.Build.0 = Release|Win32
+		{C37D66FF-44A4-4EE5-9463-84B4CDF4E371}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{C37D66FF-44A4-4EE5-9463-84B4CDF4E371}.Debug|x64.ActiveCfg = Debug|x64
+		{C37D66FF-44A4-4EE5-9463-84B4CDF4E371}.Debug|x64.Build.0 = Debug|x64
+		{C37D66FF-44A4-4EE5-9463-84B4CDF4E371}.Debug|x86.ActiveCfg = Debug|Win32
+		{C37D66FF-44A4-4EE5-9463-84B4CDF4E371}.Debug|x86.Build.0 = Debug|Win32
+		{C37D66FF-44A4-4EE5-9463-84B4CDF4E371}.Release|Any CPU.ActiveCfg = Release|Win32
+		{C37D66FF-44A4-4EE5-9463-84B4CDF4E371}.Release|x64.ActiveCfg = Release|x64
+		{C37D66FF-44A4-4EE5-9463-84B4CDF4E371}.Release|x64.Build.0 = Release|x64
+		{C37D66FF-44A4-4EE5-9463-84B4CDF4E371}.Release|x86.ActiveCfg = Release|Win32
+		{C37D66FF-44A4-4EE5-9463-84B4CDF4E371}.Release|x86.Build.0 = Release|Win32
+		{3ED4269B-578B-46CA-9158-93C1E12223D5}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{3ED4269B-578B-46CA-9158-93C1E12223D5}.Debug|x64.ActiveCfg = Debug|x64
+		{3ED4269B-578B-46CA-9158-93C1E12223D5}.Debug|x64.Build.0 = Debug|x64
+		{3ED4269B-578B-46CA-9158-93C1E12223D5}.Debug|x86.ActiveCfg = Debug|Win32
+		{3ED4269B-578B-46CA-9158-93C1E12223D5}.Debug|x86.Build.0 = Debug|Win32
+		{3ED4269B-578B-46CA-9158-93C1E12223D5}.Release|Any CPU.ActiveCfg = Release|Win32
+		{3ED4269B-578B-46CA-9158-93C1E12223D5}.Release|x64.ActiveCfg = Release|x64
+		{3ED4269B-578B-46CA-9158-93C1E12223D5}.Release|x64.Build.0 = Release|x64
+		{3ED4269B-578B-46CA-9158-93C1E12223D5}.Release|x86.ActiveCfg = Release|Win32
+		{3ED4269B-578B-46CA-9158-93C1E12223D5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://bmoretz.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Accelerated_Cpp\\Accelerated_Cpp.vcxproj
+		SccProjectName1 = Accelerated_Cpp
+		SccLocalPath1 = Accelerated_Cpp
+		SccProjectUniqueName2 = Chapter9\\Chapter9.vcxproj
+		SccProjectName2 = Chapter9
+		SccLocalPath2 = Chapter9
+		SccProjectUniqueName3 = Chapter10\\Chapter10.vcxproj
+		SccProjectName3 = Chapter10
+		SccLocalPath3 = Chapter10
+	EndGlobalSection
+EndGlobal
