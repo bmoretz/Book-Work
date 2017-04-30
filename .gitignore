@@ -1,0 +1,11 @@
+Debug
+Release
+x86
+x64
+*.ipch
+
+BoostLibraries/BoostLibraries\.sdf
+
+*.opendb
+
+BoostLibraries/\.vs/BoostLibraries/v15/
